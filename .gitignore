@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+backend/uploads/
+backend/saved_visualizations/*.json
+backend/generated_reports/*.csv
